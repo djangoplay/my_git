@@ -6,3 +6,4 @@
 #这是在B分之下新增的内容
 aaaaaaaaaaaaaaaaa
 SDADSADASDASDAS
+已经完成链表相关功能了
